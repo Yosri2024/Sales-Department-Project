@@ -52,7 +52,7 @@ pour que l'étape de nettoyage ressemble à la vraie vie d'un Data Scientist.
 | Ancre de niveau | le niveau moyen récent des ventes (moyenne 28 jours) |
 | Prédiction | ce que le modèle prévoit pour demain |
 
-> **Pour ouvrir ce notebook depuis le terminal** : `cd ~/Desktop/Sales-Department-Project` puis `jupyter notebook`
+> **Pour ouvrir ce notebook depuis le terminal** : `cd chemin/vers/Sales-Department-Project` puis `jupyter notebook`
 """)
 
 code(r"""# ÉTAPE 0 ---- Charger les outils

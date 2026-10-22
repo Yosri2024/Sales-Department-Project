@@ -11,7 +11,7 @@ from reportlab.lib.utils import ImageReader
 from reportlab.platypus import (Image, PageBreak, Paragraph, SimpleDocTemplate,
                                 Spacer, Table, TableStyle)
 
-PROJET = Path("/home/yosriii/Desktop/Sales-Department-Project")
+PROJET = Path(__file__).resolve().parent
 PDF_OUT = PROJET / "Sales-Department-Rapport.pdf"
 
 ROUGE = colors.HexColor("#c8392f")
@@ -210,7 +210,7 @@ contenu += [
 contenu += [
     Paragraph("6. Comment utiliser le projet", h1),
     Paragraph("Ouvrir une invite de commande (terminal) et entrer :", base),
-    Paragraph("cd ~/Desktop/Sales-Department-Project<br/>jupyter notebook", code),
+    Paragraph("cd chemin/vers/Sales-Department-Project<br/>jupyter notebook", code),
     Spacer(1, 4),
     Paragraph("Le navigateur s'ouvre : cliquer sur Sales_Department_Project.ipynb, puis exécuter"
               " une cellule avec Maj+Entrée, ou tout relancer via Kernel -> Restart &amp; Run All."

@@ -26,7 +26,7 @@ et le noyau `Python 3 (Data Science)` est enregistré.
 
 Dans un terminal :
 ```bash
-cd ~/Desktop/Sales-Department-Project
+cd chemin/vers/Sales-Department-Project
 jupyter notebook
 ```
 Puis ouvrir `Sales_Department_Project.ipynb`. Tu peux exécuter chaque cellule avec
