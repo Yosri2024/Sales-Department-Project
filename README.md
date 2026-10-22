@@ -1,4 +1,4 @@
-# Projet : Analyse des ventes d'un commerce de détail (version Tunisie)
+# Projet : Analyse des ventes d'un commerce de détail 
 
 Projet de Data Science complet, pensé pour un débutant : toutes les étapes sont
 commentées pas à pas, **100 % en français**.
