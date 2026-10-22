@@ -1,7 +1,7 @@
 # Projet : Analyse des ventes d'un commerce de détail 
 
 Projet de Data Science complet, pensé pour un débutant : toutes les étapes sont
-commentées pas à pas, **100 % en français**.
+commentées pas à pas.
 
 ## Objectifs
 1. Analyser les **tendances des ventes** d'un réseau de 2 supérettes (2022-2025).
