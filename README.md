@@ -38,7 +38,7 @@ Sans Jupyter : double-clic sur `Sales_Department_Project.html` (lecture seule).
 Chaque ligne = 1 magasin x 1 jour (2022-01-01 -> 31-12-2025) :
 - `Date`, `Magasin` (Supérette Tunis Centre-ville / Supérette Sousse Marina)
 - `Ventes_TND` : chiffre d'affaires du jour (dinars tunisiens)
-- `Jour_Ferie` (0/1), `Nom_Ferie` (fériés tunisiens : 14 janvier, Aïd, 1er mai...)
+- `Jour_Ferie` (0/1), `Nom_Ferie` (fériés tunisiens : 17 décembre, Aïd, 1er mai, Mouled, Ras-El-Am-Hejri...)
 
 - `Ramadan` (0/1) : le mois de jeûne (ses dates se décalent d'année en année)
 - `Prix_Carburant_TND` : prix de l'essence (TND/litre, barèmes illustratifs inspirés des réels)
@@ -48,12 +48,12 @@ volontairement des erreurs (trous, doublons, valeurs aberrantes) pour l'étape d
 
 ## Résultats obtenus (déjà calculés dans le notebook)
 - Croissance du réseau : **+27 %** de chiffre d'affaires en 2025 par rapport à 2022.
-- Jours fériés : **+25 %** de ventes en moyenne ; période de Ramadan : **+28 %**.
-- Corrélation ventes/carburant : quasi nulle — exemple de **corrélation fallacieuse**.
-- Modèle "demain" (Random Forest avec mémoire) : **MAE ~2 133 TND** (jour moyen ~33 000 TND)
-  contre **4 549 TND** pour la référence naïve : le ML fait ~53 % d'erreur en moins.
-- Prévision janvier 2026 : **851 541 TND** avec la méthode de l'ancre gelée
-  (validée : l'écart réel n'est que d'environ -2 % là où une récursion dériverait de +17 %).
+- Jours fériés : **+27 %** de ventes en moyenne ; période de Ramadan : **+27 %**.
+- Corrélation ventes/carburant : faible et positive (**r ≈ 0,23**) — exemple de **corrélation fallacieuse**.
+- Modèle "demain" (Random Forest avec mémoire) : **MAE ~2 112 TND** (jour moyen ~30 600 TND en 2025)
+  contre **4 553 TND** pour la référence naïve : le ML fait ~54 % d'erreur en moins.
+- Prévision janvier 2026 : **846 902 TND** avec la méthode de l'ancre gelée
+  (l'ancre reste fixe tout le mois pour éviter la dérive cumulative).
 
 ## Idées pour aller plus loin
 1. Ajouter la météo comme variable.

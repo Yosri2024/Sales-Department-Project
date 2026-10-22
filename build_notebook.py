@@ -331,7 +331,7 @@ plt.show()
 
 md(r"""**Conclusions de l'étape 5 :**
 - Fériés, Ramadan et Aïd **boostent** les ventes de façon nette et logique (logique économique).
-- Le carburant montre une corrélation **quasi nulle... voire positive** ! C'est une
+- Le carburant montre une corrélation **faible et positive (r ≈ 0,23)**. C'est une
   **corrélation fallacieuse** : de 2022 à 2025 les deux montent à cause du TEMPS
   (ventes croissantes + tarifs réajustés), pas l'un à cause de l'autre.
   Leçon très classique : **corrélation ne veut pas dire causalité**.
@@ -522,7 +522,7 @@ md(r"""## Récapitulatif et suite
 2. Les fériés et le Ramadan augmentent clairement les ventes ; le lien avec le carburant
    est trompeur (corrélation fallacieuse liée au temps).
 3. Pour le J+1, le modèle à mémoire bat largement la référence naïve : la MAE du modèle
-   est (tab. du dessus) ~4 550 TND pour la naïve contre ~2 100 TND pour le ML.
+   est (tab. du dessus) ~4 553 TND pour la naïve contre ~2 112 TND pour le ML.
 4. Pour le mois entier, l'ANCRE GELÉE + calendrier prévoit janvier sans dérive, alors
    qu'une boucle récursive ferait grossir la prévision de jour en jour.
 

@@ -12,7 +12,7 @@ Ce que les données simulent :
   - une saisonnalité hebdomadaire (week-end samedi/dimanche chargé)
   - une saisonnalité annuelle (décembre festif, été touristique, rentrée scolaire)
   - l'effet RAMADAN et des Aïds (les courses augmentent pendant le jeûne)
-  - les jours fériés tunisiens (14 janvier, 1er mai, 25 juillet...)
+  - les jours fériés tunisiens (17 décembre, 1er mai, 25 juillet...)
   - le prix du carburant (essence sans plomb, en TND/litre, tarifs illustratifs)
 
 Le dataset contient volontairement des ERREURS de qualité (valeurs manquantes,
@@ -34,22 +34,22 @@ dates = pd.date_range(start="2022-01-01", end="2025-12-31", freq="D")
 # ----------------------------------------------------------------------------
 feries_fixes = {
     (1, 1):   "Nouvel An",
-    (1, 14):  "Fête de la Révolution",
     (3, 20):  "Fête de l'Indépendance",
     (4, 9):   "Journée des Martyrs",
     (5, 1):   "Fête du Travail",
     (7, 25):  "Fête de la République",
     (8, 13):  "Fête de la Femme",
     (10, 15): "Fête de l'Évacuation",
-    (12, 31): "Réveillon du Nouvel An",
+    (12, 17): "Fête de la Révolution",
 }
 
 # Fêtes religieuses mobiles (approximations, suffisantes pour un projet éducatif)
 aides_fitr = ["2022-05-02", "2023-04-21", "2024-04-10", "2025-03-30"]
-aides_idha = ["2022-07-09", "2023-06-28", "2024-06-17", "2025-06-07"]
-mouled     = ["2022-10-08", "2023-09-27", "2024-09-05", "2025-09-04"]
+aides_idha = ["2022-07-09", "2023-06-28", "2024-06-16", "2025-06-06"]
+mouled     = ["2022-10-08", "2023-09-27", "2024-09-16", "2025-09-04"]
+ras_el_am  = ["2022-07-30", "2023-07-19", "2024-07-07", "2025-06-26"]
 ramadan_debuts = ["2022-04-02", "2023-03-23", "2024-03-11", "2025-03-01"]
-ramadan_durées = [29, 29, 29, 29]  # ~29 jours de jeûne chaque année
+ramadan_durées = [30, 29, 30, 29]  # 2022 et 2024 ont compté 30 jours de jeûne
 
 def fenetre_depuis(date_str, nb_jours):
     """Donne la période de N jours qui commence à date_str."""
@@ -68,6 +68,8 @@ def table_jours_speciaux():
     for s in aides_idha:
         for d in fenetre_depuis(s, 2):
             nom_ferie[d] = "Aïd el-Idha"
+    for s in ras_el_am:
+        nom_ferie[pd.Timestamp(s)] = "Ras-El-Am-Hejri"
     for s in mouled:
         nom_ferie[pd.Timestamp(s)] = "Mouled"
     for deb, duree in zip(ramadan_debuts, ramadan_durées):

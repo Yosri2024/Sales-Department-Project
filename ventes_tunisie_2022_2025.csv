@@ -25,8 +25,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2022-01-12,Supérette Sousse Marina,7605.92,0,Aucun,0,2.375
 2022-01-13,Supérette Tunis Centre-ville,11718.08,0,Aucun,0,2.375
 2022-01-13,Supérette Sousse Marina,8201.15,0,Aucun,0,2.375
-2022-01-14,Supérette Tunis Centre-ville,16134.46,1,Fête de la Révolution,0,2.375
-2022-01-14,Supérette Sousse Marina,11509.59,1,Fête de la Révolution,0,2.375
+2022-01-14,Supérette Tunis Centre-ville,12411.12,0,Aucun,0,2.375
+2022-01-14,Supérette Sousse Marina,8853.53,0,Aucun,0,2.375
 2022-01-15,Supérette Tunis Centre-ville,15104.61,0,Aucun,0,2.375
 2022-01-15,Supérette Sousse Marina,11732.75,0,Aucun,0,2.375
 2022-01-16,Supérette Tunis Centre-ville,13897.59,0,Aucun,0,2.375
@@ -239,8 +239,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2022-04-29,Supérette Sousse Marina,14390.0,0,Aucun,1,2.575
 2022-04-30,Supérette Tunis Centre-ville,23267.66,0,Aucun,1,2.575
 2022-04-30,Supérette Sousse Marina,16787.71,0,Aucun,1,2.575
-2022-05-01,Supérette Tunis Centre-ville,18453.38,1,Fête du Travail,0,2.575
-2022-05-01,Supérette Sousse Marina,14018.66,1,Fête du Travail,0,2.575
+2022-05-01,Supérette Tunis Centre-ville,19163.13,1,Fête du Travail,1,2.575
+2022-05-01,Supérette Sousse Marina,14557.84,1,Fête du Travail,1,2.575
 2022-05-02,Supérette Tunis Centre-ville,14035.17,1,Aïd el-Fitr,0,2.575
 2022-05-02,Supérette Sousse Marina,10306.44,1,Aïd el-Fitr,0,2.575
 2022-05-03,Supérette Tunis Centre-ville,12465.88,1,Aïd el-Fitr,0,2.575
@@ -419,8 +419,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2022-07-28,Supérette Sousse Marina,7973.85,0,Aucun,0,2.575
 2022-07-29,Supérette Tunis Centre-ville,15185.65,0,Aucun,0,2.575
 2022-07-29,Supérette Sousse Marina,12355.38,0,Aucun,0,2.575
-2022-07-30,Supérette Tunis Centre-ville,18674.49,0,Aucun,0,2.575
-2022-07-30,Supérette Sousse Marina,16511.48,0,Aucun,0,2.575
+2022-07-30,Supérette Tunis Centre-ville,24276.84,1,Ras-El-Am-Hejri,0,2.575
+2022-07-30,Supérette Sousse Marina,17171.94,1,Ras-El-Am-Hejri,0,2.575
 2022-07-31,Supérette Tunis Centre-ville,10363.84,0,Aucun,0,2.575
 2022-07-31,Supérette Sousse Marina,14179.8,0,Aucun,0,2.575
 2022-08-01,Supérette Tunis Centre-ville,12555.0,0,Aucun,0,2.575
@@ -699,8 +699,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2022-12-15,Supérette Sousse Marina,10194.91,0,Aucun,0,2.575
 2022-12-16,Supérette Tunis Centre-ville,15965.88,0,Aucun,0,2.575
 2022-12-16,Supérette Sousse Marina,12417.22,0,Aucun,0,2.575
-2022-12-17,Supérette Tunis Centre-ville,19241.86,0,Aucun,0,2.575
-2022-12-17,Supérette Sousse Marina,16080.52,0,Aucun,0,2.575
+2022-12-17,Supérette Tunis Centre-ville,25014.42,1,Fête de la Révolution,0,2.575
+2022-12-17,Supérette Sousse Marina,20904.68,1,Fête de la Révolution,0,2.575
 2022-12-18,Supérette Tunis Centre-ville,18320.52,0,Aucun,0,2.575
 2022-12-18,Supérette Sousse Marina,13046.49,0,Aucun,0,2.575
 2022-12-19,Supérette Tunis Centre-ville,13148.7,0,Aucun,0,2.575
@@ -727,8 +727,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2022-12-29,Supérette Sousse Marina,9845.03,0,Aucun,0,2.575
 2022-12-30,Supérette Tunis Centre-ville,15635.48,0,Aucun,0,2.575
 2022-12-30,Supérette Sousse Marina,12423.87,0,Aucun,0,2.575
-2022-12-31,Supérette Tunis Centre-ville,24722.7,1,Réveillon du Nouvel An,0,2.575
-2022-12-31,Supérette Sousse Marina,18504.48,1,Réveillon du Nouvel An,0,2.575
+2022-12-31,Supérette Tunis Centre-ville,19017.46,0,Aucun,0,2.575
+2022-12-31,Supérette Sousse Marina,14234.22,0,Aucun,0,2.575
 2023-01-01,Supérette Tunis Centre-ville,20562.65,1,Nouvel An,0,2.525
 2023-01-01,Supérette Sousse Marina,14032.88,1,Nouvel An,0,2.525
 2023-01-02,Supérette Tunis Centre-ville,11110.17,0,Aucun,0,2.525
@@ -755,8 +755,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2023-01-12,Supérette Sousse Marina,8299.62,0,Aucun,0,2.525
 2023-01-13,Supérette Tunis Centre-ville,8578.1,0,Aucun,0,2.525
 2023-01-13,Supérette Sousse Marina,9704.78,0,Aucun,0,2.525
-2023-01-14,Supérette Tunis Centre-ville,21962.23,1,Fête de la Révolution,0,2.525
-2023-01-14,Supérette Sousse Marina,16191.27,1,Fête de la Révolution,0,2.525
+2023-01-14,Supérette Tunis Centre-ville,16894.02,0,Aucun,0,2.525
+2023-01-14,Supérette Sousse Marina,12454.82,0,Aucun,0,2.525
 2023-01-15,Supérette Tunis Centre-ville,14951.79,0,Aucun,0,2.525
 2023-01-15,Supérette Sousse Marina,,0,Aucun,0,2.525
 2023-01-16,Supérette Tunis Centre-ville,10370.07,0,Aucun,0,2.525
@@ -1127,8 +1127,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2023-07-17,Supérette Sousse Marina,12386.64,0,Aucun,0,2.525
 2023-07-18,Supérette Tunis Centre-ville,13338.63,0,Aucun,0,2.525
 2023-07-18,Supérette Sousse Marina,7633.29,0,Aucun,0,2.525
-2023-07-19,Supérette Tunis Centre-ville,14153.49,0,Aucun,0,2.525
-2023-07-19,Supérette Sousse Marina,12605.77,0,Aucun,0,2.525
+2023-07-19,Supérette Tunis Centre-ville,18399.54,1,Ras-El-Am-Hejri,0,2.525
+2023-07-19,Supérette Sousse Marina,13110.0,1,Ras-El-Am-Hejri,0,2.525
 2023-07-20,Supérette Tunis Centre-ville,15338.22,0,Aucun,0,2.525
 2023-07-20,Supérette Sousse Marina,13772.6,0,Aucun,0,2.525
 2023-07-21,Supérette Tunis Centre-ville,16577.79,0,Aucun,0,2.525
@@ -1429,8 +1429,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2023-12-15,Supérette Sousse Marina,12517.39,0,Aucun,0,2.525
 2023-12-16,Supérette Tunis Centre-ville,22330.6,0,Aucun,0,2.525
 2023-12-16,Supérette Sousse Marina,16228.87,0,Aucun,0,2.525
-2023-12-17,Supérette Tunis Centre-ville,19808.53,0,Aucun,0,2.525
-2023-12-17,Supérette Sousse Marina,13297.92,0,Aucun,0,2.525
+2023-12-17,Supérette Tunis Centre-ville,25751.08,1,Fête de la Révolution,0,2.525
+2023-12-17,Supérette Sousse Marina,17287.3,1,Fête de la Révolution,0,2.525
 2023-12-18,Supérette Tunis Centre-ville,14004.26,0,Aucun,0,2.525
 2023-12-18,Supérette Sousse Marina,6594.19,0,Aucun,0,2.525
 2023-12-19,Supérette Tunis Centre-ville,14485.8,0,Aucun,0,2.525
@@ -1457,8 +1457,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2023-12-29,Supérette Sousse Marina,12697.47,0,Aucun,0,2.525
 2023-12-30,Supérette Tunis Centre-ville,24955.91,0,Aucun,0,2.525
 2023-12-30,Supérette Sousse Marina,14909.05,0,Aucun,0,2.525
-2023-12-31,Supérette Tunis Centre-ville,25532.31,1,Réveillon du Nouvel An,0,2.525
-2023-12-31,Supérette Sousse Marina,19793.23,1,Réveillon du Nouvel An,0,2.525
+2023-12-31,Supérette Tunis Centre-ville,19640.24,0,Aucun,0,2.525
+2023-12-31,Supérette Sousse Marina,15225.56,0,Aucun,0,2.525
 2024-01-01,Supérette Tunis Centre-ville,15444.01,1,Nouvel An,0,2.525
 2024-01-01,Supérette Sousse Marina,11852.65,1,Nouvel An,0,2.525
 2024-01-02,Supérette Tunis Centre-ville,10758.55,0,Aucun,0,2.525
@@ -1485,8 +1485,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2024-01-12,Supérette Sousse Marina,11404.55,0,Aucun,0,2.525
 2024-01-13,Supérette Tunis Centre-ville,18312.31,0,Aucun,0,2.525
 2024-01-13,Supérette Sousse Marina,14089.09,0,Aucun,0,2.525
-2024-01-14,Supérette Tunis Centre-ville,22497.28,1,Fête de la Révolution,0,2.525
-2024-01-14,Supérette Sousse Marina,15636.64,1,Fête de la Révolution,0,2.525
+2024-01-14,Supérette Tunis Centre-ville,17305.6,0,Aucun,0,2.525
+2024-01-14,Supérette Sousse Marina,12028.19,0,Aucun,0,2.525
 2024-01-15,Supérette Tunis Centre-ville,12103.46,0,Aucun,0,2.525
 2024-01-15,Supérette Sousse Marina,8787.39,0,Aucun,0,2.525
 2024-01-16,Supérette Tunis Centre-ville,12526.06,0,Aucun,0,2.525
@@ -1657,8 +1657,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2024-04-07,Supérette Sousse Marina,18305.17,0,Aucun,1,2.525
 2024-04-08,Supérette Tunis Centre-ville,18718.74,0,Aucun,1,2.525
 2024-04-08,Supérette Sousse Marina,13885.6,0,Aucun,1,2.525
-2024-04-09,Supérette Tunis Centre-ville,16150.21,1,Journée des Martyrs,0,2.525
-2024-04-09,Supérette Sousse Marina,11847.9,1,Journée des Martyrs,0,2.525
+2024-04-09,Supérette Tunis Centre-ville,16771.37,1,Journée des Martyrs,1,2.525
+2024-04-09,Supérette Sousse Marina,12303.59,1,Journée des Martyrs,1,2.525
 2024-04-10,Supérette Tunis Centre-ville,18777.51,1,Aïd el-Fitr,0,2.525
 2024-04-10,Supérette Sousse Marina,12566.1,1,Aïd el-Fitr,0,2.525
 2024-04-11,Supérette Tunis Centre-ville,19915.07,1,Aïd el-Fitr,0,2.525
@@ -1793,12 +1793,12 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2024-06-14,Supérette Sousse Marina,12526.21,0,Aucun,0,2.525
 2024-06-15,Supérette Tunis Centre-ville,19866.16,0,Aucun,0,2.525
 2024-06-15,Supérette Sousse Marina,14867.2,0,Aucun,0,2.525
-2024-06-16,Supérette Tunis Centre-ville,17493.69,0,Aucun,0,2.525
-2024-06-16,Supérette Sousse Marina,13983.26,0,Aucun,0,2.525
+2024-06-16,Supérette Tunis Centre-ville,22741.8,1,Aïd el-Idha,0,2.525
+2024-06-16,Supérette Sousse Marina,18178.23,1,Aïd el-Idha,0,2.525
 2024-06-17,Supérette Tunis Centre-ville,18662.05,1,Aïd el-Idha,0,2.525
 2024-06-17,Supérette Sousse Marina,14080.93,1,Aïd el-Idha,0,2.525
-2024-06-18,Supérette Tunis Centre-ville,19299.44,1,Aïd el-Idha,0,2.525
-2024-06-18,Supérette Sousse Marina,12020.42,1,Aïd el-Idha,0,2.525
+2024-06-18,Supérette Tunis Centre-ville,14845.72,0,Aucun,0,2.525
+2024-06-18,Supérette Sousse Marina,9246.48,0,Aucun,0,2.525
 2024-06-19,Supérette Tunis Centre-ville,14731.14,0,Aucun,0,2.525
 2024-06-19,Supérette Sousse Marina,9315.37,0,Aucun,0,2.525
 2024-06-20,Supérette Tunis Centre-ville,15490.2,0,Aucun,0,2.525
@@ -1835,8 +1835,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2024-07-05,Supérette Sousse Marina,10379.95,0,Aucun,0,2.525
 2024-07-06,Supérette Tunis Centre-ville,20867.99,0,Aucun,0,2.525
 2024-07-06,Supérette Sousse Marina,18940.42,0,Aucun,0,2.525
-2024-07-07,Supérette Tunis Centre-ville,19064.79,0,Aucun,0,2.525
-2024-07-07,Supérette Sousse Marina,,0,Aucun,0,2.525
+2024-07-07,Supérette Tunis Centre-ville,24784.22,1,Ras-El-Am-Hejri,0,2.525
+2024-07-07,Supérette Sousse Marina,,1,Ras-El-Am-Hejri,0,2.525
 2024-07-08,Supérette Tunis Centre-ville,14743.75,0,Aucun,0,2.525
 2024-07-08,Supérette Sousse Marina,14143.41,0,Aucun,0,2.525
 2024-07-09,Supérette Tunis Centre-ville,13919.21,0,Aucun,0,2.525
@@ -1955,8 +1955,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2024-09-03,Supérette Sousse Marina,9228.01,0,Aucun,0,2.525
 2024-09-04,Supérette Tunis Centre-ville,13943.19,0,Aucun,0,2.525
 2024-09-04,Supérette Sousse Marina,9495.75,0,Aucun,0,2.525
-2024-09-05,Supérette Tunis Centre-ville,20496.5,1,Mouled,0,2.525
-2024-09-05,Supérette Sousse Marina,8221.84,1,Mouled,0,2.525
+2024-09-05,Supérette Tunis Centre-ville,15766.54,0,Aucun,0,2.525
+2024-09-05,Supérette Sousse Marina,6324.49,0,Aucun,0,2.525
 2024-09-06,Supérette Tunis Centre-ville,17581.42,0,Aucun,0,2.525
 2024-09-06,Supérette Sousse Marina,12806.8,0,Aucun,0,2.525
 2024-09-07,Supérette Tunis Centre-ville,20181.21,0,Aucun,0,2.525
@@ -1977,8 +1977,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2024-09-14,Supérette Sousse Marina,14168.75,0,Aucun,0,2.525
 2024-09-15,Supérette Tunis Centre-ville,20820.26,0,Aucun,0,2.525
 2024-09-15,Supérette Sousse Marina,15021.1,0,Aucun,0,2.525
-2024-09-16,Supérette Tunis Centre-ville,14471.92,0,Aucun,0,2.525
-2024-09-16,Supérette Sousse Marina,11075.14,0,Aucun,0,2.525
+2024-09-16,Supérette Tunis Centre-ville,16797.76,1,Mouled,0,2.525
+2024-09-16,Supérette Sousse Marina,12855.08,1,Mouled,0,2.525
 2024-09-17,Supérette Tunis Centre-ville,14898.69,0,Aucun,0,2.525
 2024-09-17,Supérette Sousse Marina,9234.7,0,Aucun,0,2.525
 2024-09-18,Supérette Tunis Centre-ville,14858.19,0,Aucun,0,2.525
@@ -2161,8 +2161,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2024-12-15,Supérette Sousse Marina,14041.75,0,Aucun,0,2.525
 2024-12-16,Supérette Tunis Centre-ville,16467.18,0,Aucun,0,2.525
 2024-12-16,Supérette Sousse Marina,11358.55,0,Aucun,0,2.525
-2024-12-17,Supérette Tunis Centre-ville,14482.17,0,Aucun,0,2.525
-2024-12-17,Supérette Sousse Marina,10377.51,0,Aucun,0,2.525
+2024-12-17,Supérette Tunis Centre-ville,18826.82,1,Fête de la Révolution,0,2.525
+2024-12-17,Supérette Sousse Marina,13490.76,1,Fête de la Révolution,0,2.525
 2024-12-18,Supérette Tunis Centre-ville,17370.46,0,Aucun,0,2.525
 2024-12-18,Supérette Sousse Marina,12028.03,0,Aucun,0,2.525
 2024-12-19,Supérette Tunis Centre-ville,17175.0,0,Aucun,0,2.525
@@ -2189,8 +2189,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2024-12-29,Supérette Sousse Marina,14436.87,0,Aucun,0,2.525
 2024-12-30,Supérette Tunis Centre-ville,13884.85,0,Aucun,0,2.525
 2024-12-30,Supérette Sousse Marina,11067.29,0,Aucun,0,2.525
-2024-12-31,Supérette Tunis Centre-ville,20120.91,1,Réveillon du Nouvel An,0,2.525
-2024-12-31,Supérette Sousse Marina,14407.39,1,Réveillon du Nouvel An,0,2.525
+2024-12-31,Supérette Tunis Centre-ville,15477.62,0,Aucun,0,2.525
+2024-12-31,Supérette Sousse Marina,11082.61,0,Aucun,0,2.525
 2025-01-01,Supérette Tunis Centre-ville,17051.8,1,Nouvel An,0,2.575
 2025-01-01,Supérette Sousse Marina,13164.0,1,Nouvel An,0,2.575
 2025-01-02,Supérette Tunis Centre-ville,15484.5,0,Aucun,0,2.575
@@ -2217,8 +2217,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2025-01-12,Supérette Sousse Marina,12845.0,0,Aucun,0,2.575
 2025-01-13,Supérette Tunis Centre-ville,12709.79,0,Aucun,0,2.575
 2025-01-13,Supérette Sousse Marina,8959.48,0,Aucun,0,2.575
-2025-01-14,Supérette Tunis Centre-ville,15744.8,1,Fête de la Révolution,0,2.575
-2025-01-14,Supérette Sousse Marina,10364.01,1,Fête de la Révolution,0,2.575
+2025-01-14,Supérette Tunis Centre-ville,12111.38,0,Aucun,0,2.575
+2025-01-14,Supérette Sousse Marina,7972.32,0,Aucun,0,2.575
 2025-01-15,Supérette Tunis Centre-ville,13757.38,0,Aucun,0,2.575
 2025-01-15,Supérette Sousse Marina,9851.26,0,Aucun,0,2.575
 2025-01-16,Supérette Tunis Centre-ville,14836.36,0,Aucun,0,2.575
@@ -2503,12 +2503,12 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2025-06-04,Supérette Sousse Marina,10673.92,0,Aucun,0,2.575
 2025-06-05,Supérette Tunis Centre-ville,17030.98,0,Aucun,0,2.575
 2025-06-05,Supérette Sousse Marina,12901.3,0,Aucun,0,2.575
-2025-06-06,Supérette Tunis Centre-ville,12652.59,0,Aucun,0,2.575
-2025-06-06,Supérette Sousse Marina,13429.94,0,Aucun,0,2.575
+2025-06-06,Supérette Tunis Centre-ville,16448.37,1,Aïd el-Idha,0,2.575
+2025-06-06,Supérette Sousse Marina,17458.92,1,Aïd el-Idha,0,2.575
 2025-06-07,Supérette Tunis Centre-ville,31518.15,1,Aïd el-Idha,0,2.575
 2025-06-07,Supérette Sousse Marina,21609.07,1,Aïd el-Idha,0,2.575
-2025-06-08,Supérette Tunis Centre-ville,15741.51,1,Aïd el-Idha,0,2.575
-2025-06-08,Supérette Sousse Marina,19477.47,1,Aïd el-Idha,0,2.575
+2025-06-08,Supérette Tunis Centre-ville,12108.86,0,Aucun,0,2.575
+2025-06-08,Supérette Sousse Marina,14982.67,0,Aucun,0,2.575
 2025-06-09,Supérette Tunis Centre-ville,15792.35,0,Aucun,0,2.575
 2025-06-09,Supérette Sousse Marina,11752.43,0,Aucun,0,2.575
 2025-06-10,Supérette Tunis Centre-ville,13946.72,0,Aucun,0,2.575
@@ -2543,8 +2543,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2025-06-24,Supérette Sousse Marina,10312.94,0,Aucun,0,2.575
 2025-06-25,Supérette Tunis Centre-ville,14978.61,0,Aucun,0,2.575
 2025-06-25,Supérette Sousse Marina,10599.37,0,Aucun,0,2.575
-2025-06-26,Supérette Tunis Centre-ville,16507.32,0,Aucun,0,2.575
-2025-06-26,Supérette Sousse Marina,11456.47,0,Aucun,0,2.575
+2025-06-26,Supérette Tunis Centre-ville,21459.51,1,Ras-El-Am-Hejri,0,2.575
+2025-06-26,Supérette Sousse Marina,14893.42,1,Ras-El-Am-Hejri,0,2.575
 2025-06-27,Supérette Tunis Centre-ville,18732.9,0,Aucun,0,2.575
 2025-06-27,Supérette Sousse Marina,12672.93,0,Aucun,0,2.575
 2025-06-28,Supérette Tunis Centre-ville,22245.37,0,Aucun,0,2.575
@@ -2891,8 +2891,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2025-12-15,Supérette Sousse Marina,11267.88,0,Aucun,0,2.575
 2025-12-16,Supérette Tunis Centre-ville,17610.38,0,Aucun,0,2.575
 2025-12-16,Supérette Sousse Marina,11323.09,0,Aucun,0,2.575
-2025-12-17,Supérette Tunis Centre-ville,16223.94,0,Aucun,0,2.575
-2025-12-17,Supérette Sousse Marina,12246.08,0,Aucun,0,2.575
+2025-12-17,Supérette Tunis Centre-ville,21091.12,1,Fête de la Révolution,0,2.575
+2025-12-17,Supérette Sousse Marina,15919.91,1,Fête de la Révolution,0,2.575
 2025-12-18,Supérette Tunis Centre-ville,18527.51,0,Aucun,0,2.575
 2025-12-18,Supérette Sousse Marina,13465.79,0,Aucun,0,2.575
 2025-12-19,Supérette Tunis Centre-ville,20462.93,0,Aucun,0,2.575
@@ -2919,8 +2919,8 @@ Date,Magasin,Ventes_TND,Jour_Ferie,Nom_Ferie,Ramadan,Prix_Carburant_TND
 2025-12-29,Supérette Sousse Marina,12110.68,0,Aucun,0,2.575
 2025-12-30,Supérette Tunis Centre-ville,15811.85,0,Aucun,0,2.575
 2025-12-30,Supérette Sousse Marina,11587.23,0,Aucun,0,2.575
-2025-12-31,Supérette Tunis Centre-ville,21773.51,1,Réveillon du Nouvel An,0,2.575
-2025-12-31,Supérette Sousse Marina,15395.77,1,Réveillon du Nouvel An,0,2.575
+2025-12-31,Supérette Tunis Centre-ville,16748.85,0,Aucun,0,2.575
+2025-12-31,Supérette Sousse Marina,11842.9,0,Aucun,0,2.575
 2025-08-22,Supérette Sousse Marina,18255.33,0,Aucun,0,2.575
 2024-06-22,Supérette Tunis Centre-ville,21972.43,0,Aucun,0,2.525
 2025-01-11,Supérette Tunis Centre-ville,20453.21,0,Aucun,0,2.575

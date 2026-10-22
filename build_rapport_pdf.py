@@ -127,7 +127,7 @@ contenu += [
         [["Date", "le jour (AAAA-MM-JJ) ; 1 ligne = 1 magasin x 1 jour"],
          ["Magasin", "Supérette Tunis Centre-ville ou Supérette Sousse Marina"],
          ["Ventes_TND", "chiffre d'affaires du jour, en dinars tunisiens (TND)"],
-         ["Jour_Ferie / Nom_Ferie", "0/1 et nom du férié : 14 janvier, Aïd, 1er mai, 25 juillet..."],
+         ["Jour_Ferie / Nom_Ferie", "0/1 et nom du férié : 17 décembre, Aïd, 1er mai, 25 juillet, Mouled, Ras-El-Am-Hejri..."],
          ["Ramadan", "0/1 : jour situé pendant le mois de jeûne (dates décalées chaque année)"],
          ["Prix_Carburant_TND", "prix de l'essence sans plomb (TND/litre), barèmes illustratifs"]],
         [4.4 * cm, 12.2 * cm]),
@@ -170,9 +170,9 @@ contenu += [
     Paragraph("<b>Étape 4 — Tendances.</b> Total du réseau + moyenne mobile 30 jours + chiffre"
               " d'affaires mensuel + heatmap semaine x mois : croissance, weekend du samedi,"
               " décembre et l'été touristique de Sousse apparents.", base),
-    Paragraph("<b>Étape 5 — Facteurs externes.</b> Fériés : +25 % de ventes ; Ramadan : +28 % ;"
-              " classement des fêtes ; corrélation gas et ventes quasi nulle (corrélation"
-              " fallacieuse : les deux montent avec le TEMPS).", base),
+    Paragraph("<b>Étape 5 — Facteurs externes.</b> Fériés : +27 % de ventes ; Ramadan : +27 % ;"
+              " classement des fêtes ; corrélation gas et ventes faible et positive (r ≈ 0,23),"
+              " mais fallacieuse : les deux montent avec le TEMPS).", base),
     Paragraph("<b>Étape 6 — Préparer le Machine Learning.</b> 3 familles de variables : calendrier,"
               " mémoire (Ventes_J1, Ventes_J7, Moy_7j) et ancre de niveau (Base28 = moyenne"
               " des 28 jours passés). Découpage temporel : entraînement 2022-2024, test 2025.", base),
@@ -190,11 +190,11 @@ contenu += [
         [("Question posée", "Réponse trouvée")],
         [["Le réseau grandit-il ?", "+27 % de chiffre d'affaires entre 2022 et 2025 (+9 % par an environ)"],
          ["Le week-end aide-t-il ?", "Le samedi est le meilleur jour (vente moyenne la plus haute)"],
-         ["Les fériés augmentent-ils les ventes ?", "Oui : +25 % en moyenne par rapport à un jour normal"],
-         ["Effet du Ramadan ?", "+28 % (les courses des repas après le jeûne)"],
-         ["Et le prix du carburant ?", "Corrélation quasi nulle : exemple de corrélation fallacieuse"],
-         ["Qui prédit bien «demain» ?", "RF mémoire : MAE 2 133 TND contre 4 549 TND pour la naïve (-53 % d'erreurs)"],
-         ["Que prévoit janvier 2026 ?", "851 541 TND (ancre figée, validée : écart réel ~(−2 %))"]],
+         ["Les fériés augmentent-ils les ventes ?", "Oui : +27 % en moyenne par rapport à un jour normal"],
+         ["Effet du Ramadan ?", "+27 % (les courses des repas après le jeûne)"],
+         ["Et le prix du carburant ?", "Corrélation faible et positive (r ≈ 0,23) : exemple de corrélation fallacieuse"],
+         ["Qui prédit bien «demain» ?", "RF mémoire : MAE 2 112 TND contre 4 553 TND pour la naïve (-54 % d'erreurs)"],
+         ["Que prévoit janvier 2026 ?", "846 902 TND (ancre figée pour éviter la dérive cumulative)"]],
         [6.4 * cm, 10.2 * cm]),
     Spacer(1, 8),
     image("figures/03_tendance_reseau.png"),
